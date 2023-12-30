@@ -7,12 +7,14 @@
 
 - 💬 Ask me about **Node.js, Javascript, Typescript, Databases, devOps**
 
-- 📫 How to reach me **andredrumonddev0@gmail.com**
+- 📫 How to reach me **andredrumonddev@gmail.com**
 
-<br>
-<b style="margin-right: 8px; font-size: 18px;">Technologies:</b>
-<br>
-<br>
+- 📥 Personal NPM libraries **[object-mapper-util](https://www.npmjs.com/package/object-mapper-util)**
+
+
+### Technologies:
+* * *
+<div>
 <b style="margin-right: 8px; font-size: 15px;">Node.js</b><img src="https://hazelcast.com/wp-content/uploads/2021/12/node-logo.png" alt="Node.js Logo" width="30" height="20" />
 <b style="margin-right: 8px; font-size: 15px;">JavaScript</b><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="30" height="20" />
 <b style="margin-right: 8px; font-size: 15px;">TypeScript</b><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="30" height="20" />
@@ -31,13 +33,16 @@
 <b style="margin-right: 8px; font-size: 15px;">AWS</b><img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS Logo" width="30" height="20" />
 <b style="margin-right: 8px; font-size: 15px;">Linux</b><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux Logo" width="25" height="20" />
 <b style="margin-right: 8px; font-size: 15px;">Shell Scripting</b><img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_tw.png" alt="Shell Scripting Logo" width="20" height="20" />
-<br>
-<b style="margin-right: 8px; font-size: 18px;">Certifications:</b>
-<br>
-<img src="https://www.lpi.org/wp-content/webp-express/webp-images/uploads/2023/04/Essentials-Linux.jpg.webp" alt="Linux Essentials" width="50" height="40" /> <img src="https://linuxsemfronteiras.com.br/wp-content/uploads/2017/07/LPIC-1-Logo.jpg" alt="LPIC-1" width="50" height="40" />
-<br>
+</div>
 
-<b style="margin-right: 8px; font-size: 18px;">Social Medias:</b>
-<p align="left">
-<a href="https://www.linkedin.com/in/andre-drumond/" target="blank"><img align="center" src="https://assets.stickpng.com/images/6297a2f1e01809629f113598.png" alt="Drumond DEV" height="40" width="40" /></a><a href="https://www.instagram.com/drumond.dev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="Drumond DEV" height="35" width="40" /></a><a href="https://www.youtube.com/@drumonddev/videos" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Drumond DEV" height="40" width="40" /></a>
-</p>
+### Social Medias:
+* * *
+
+
+<div align='center'>
+    <div>
+    <a href="https://www.linkedin.com/in/andre-drumond/"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@drumonddev/videos"><img target="_blank" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.instagram.com/drumond.dev/"><img target="_blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  </div>
+</div>
