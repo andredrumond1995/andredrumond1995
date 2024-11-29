@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andredrumonddev@gmail.com**
 
-- 📥 Personal NPM libraries **[object-mapper-util](https://www.npmjs.com/package/object-mapper-util)**, **[xml-to-json-util](https://www.npmjs.com/package/xml-to-json-util)**
+- 📥 Personal NPM libraries **[text-to-number-util](https://www.npmjs.com/package/text-to-number-util)**, **[object-mapper-util](https://www.npmjs.com/package/object-mapper-util)**, **[xml-to-json-util](https://www.npmjs.com/package/xml-to-json-util)**
 
 
 ### Technologies:
