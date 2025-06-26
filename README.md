@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node.js, Javascript, Typescript, Databases, devOps**
 
-- 📫 How to reach me **andredrumonddev@gmail.com**
+- 📫 How to reach me **andredrumond1995@gmail.com**
 
 - 📥 Personal NPM libraries **[text-to-number-util](https://www.npmjs.com/package/text-to-number-util)**, **[object-mapper-util](https://www.npmjs.com/package/object-mapper-util)**, **[xml-to-json-util](https://www.npmjs.com/package/xml-to-json-util)**
 
