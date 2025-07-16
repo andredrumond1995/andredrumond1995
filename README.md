@@ -1,7 +1,5 @@
-<!-- Main Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+André+Drumond!;FullStack+Developer+%7C+Clean+Architecture+%7C+DevOps"/>
-</p>
+<h1 align="center">Hi, I'm André Drumond!</h1>
+<h3 align="center">FullStack Engineer</h3>
 
 <p align="center">
   <a href="mailto:andredrumond1995@gmail.com"><img src="https://img.shields.io/badge/Email-andredrumond1995@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,7 +13,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  I'm a <b>FullStack Developer</b> from Brazil 🇧🇷, with <b>7 years of experience</b> in the field, passionate about learning, teaching, and sharing knowledge.<br/>
+  I'm a <b>FullStack Engineer</b> from Brazil 🇧🇷, with <b>7 years of experience</b> in the field, passionate about learning, teaching, and sharing knowledge.<br/>
   <b>Experienced in Node.js, Typescript, Clean Architecture, DevOps, Databases, AI-powered applications, Vue.js, Angular, and React.</b>
 </p>
 
