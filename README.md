@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🛠️ Code Samples & Scaffolds</h2>
 
 <p align="center">
   <a href="https://github.com/andredrumond1995/nestjs-mongoose-clean-arch">
@@ -29,8 +29,20 @@
 
 <p align="center">
   <b>Repository:</b> <a href="https://github.com/andredrumond1995/nestjs-mongoose-clean-arch">nestjs-mongoose-clean-arch</a><br/>
-  TODOs API built with <b>NestJS</b>, <b>Mongoose</b>, and <b>Clean Architecture</b>, featuring advanced OData v4 support for MongoDB.<br/>
+  (wip) TODOs API built with <b>NestJS</b>, <b>Mongoose</b>, and <b>Clean Architecture</b>, featuring advanced OData v4 support for MongoDB.<br/>
   <i>Perfect for those seeking modern, scalable architecture and practical best-practice examples!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andredrumond1995/react-nextjs-zustand">
+    <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Zustand%20%7C%20Tailwind-Modern%20Todo%20App-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/andredrumond1995/react-nextjs-zustand">react-nextjs-zustand</a><br/>
+  (wip) A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
+  <i>Explore advanced patterns, clean code, and a delightful user experience!</i>
 </p>
 
 ---
