@@ -41,8 +41,18 @@
 
 <p align="center">
   <b>Repository:</b> <a href="https://github.com/andredrumond1995/react-nextjs-zustand">react-nextjs-zustand</a><br/>
-  (wip) A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
-  <i>Explore advanced patterns, clean code, and a delightful user experience!</i>
+  A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">
+    <img src="https://img.shields.io/badge/Vue.js%20%7C%20Nuxt%203%20%7C%20Pinia%20%7C%20Tailwind-Modern%20Todo%20App-green?style=for-the-badge&logo=vue.js&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Repository:</b> <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">vue-nuxt3-pinia</a><br/>
+  A modern and beautiful <b>Todo App</b> built with <b>Vue.js</b>, <b>Nuxt 3</b>, <b>Pinia</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
 </p>
 
 ---
