@@ -35,13 +35,13 @@
 
 <p align="center">
   <a href="https://github.com/andredrumond1995/react-nextjs-zustand">
-    <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Zustand%20%7C%20Tailwind-Modern%20Todo%20App-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Zustand%20%7C%20Tailwind%20%7C%20Playwright-Modern%20Todo%20App-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <b>Repository:</b> <a href="https://github.com/andredrumond1995/react-nextjs-zustand">react-nextjs-zustand</a><br/>
-  A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
+  A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, <b>Tailwind CSS</b> for a stunning UI, and <b>Playwright</b> (v1.54) for comprehensive testing.<br/>
 </p>
 
 <p align="center">
