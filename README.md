@@ -46,13 +46,14 @@
 
 <p align="center">
   <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">
-    <img src="https://img.shields.io/badge/Vue.js%20%7C%20Nuxt%203%20%7C%20Pinia%20%7C%20Tailwind-Modern%20Todo%20App-green?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js%20%7C%20Nuxt%203%20%7C%20Pinia%20%7C%20Tailwind%20%7C%20Cypress-Modern%20Todo%20App-green?style=for-the-badge&logo=vue.js&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <b>Repository:</b> <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">vue-nuxt3-pinia</a><br/>
-  A modern and beautiful <b>Todo App</b> built with <b>Vue.js</b>, <b>Nuxt 3</b>, <b>Pinia</b> for state management, and <b>Tailwind CSS</b> for a stunning UI.<br/>
+  A modern and beautiful <b>Todo App</b> built with <b>Vue.js</b>, <b>Nuxt 3</b>, <b>Pinia</b> for state management, and <b>Tailwind CSS</b> for a stunning UI. Includes <b>Cypress</b> for robust end-to-end testing.<br/>
+  <i>Discover Vue.js best practices, responsive design, elegant state management, and reliable automated testing!</i>
 </p>
 
 ---
