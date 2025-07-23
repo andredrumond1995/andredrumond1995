@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm André Drumond!</h1>
-<h3 align="center">FullStack Engineer</h3>
+<h3 align="center">FullStack Engineer | Clean Architecture | DevOps | 7+ years experience</h3>
 
 <p align="center">
   <a href="mailto:andredrumond1995@gmail.com"><img src="https://img.shields.io/badge/Email-andredrumond1995@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,81 +10,60 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
-
 <p align="center">
-  I'm a <b>FullStack Engineer</b> from Brazil 🇧🇷, with <b>7 years of experience</b> in the field, passionate about learning, teaching, and sharing knowledge.<br/>
-  <b>Experienced in Node.js, Typescript, Clean Architecture, DevOps, Databases, AI-powered applications, Vue.js, Angular, and React.</b>
+  <b>FullStack Engineer from Brazil 🇧🇷</b><br/>
+  <b>7+ years experience</b> building scalable web apps, APIs, and cloud infrastructure.<br/>
+  <b>Skills:</b> Node.js, TypeScript, Clean Architecture, DevOps, Databases, AI-powered apps, Vue.js, Angular, React, AWS, Docker, Terraform, E2E Testing.
 </p>
 
 ---
 
-<h2 align="center">🛠️ Code Samples & Scaffolds</h2>
+<h2 align="center">🛠️ Demo & Scaffold Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/andredrumond1995/nestjs-mongoose-clean-arch">
-    <img src="https://img.shields.io/badge/NestJS%20Clean%20Architecture%20API-MongoDB-red?style=for-the-badge&logo=nestjs&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Repository:</b> <a href="https://github.com/andredrumond1995/nestjs-mongoose-clean-arch">nestjs-mongoose-clean-arch</a><br/>
-  (wip) TODOs API built with <b>NestJS</b>, <b>Mongoose</b>, and <b>Clean Architecture</b>, featuring advanced OData v4 support for MongoDB.<br/>
-  <i>Perfect for those seeking modern, scalable architecture and practical best-practice examples!</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/andredrumond1995/react-nextjs-zustand">
-    <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Zustand%20%7C%20Tailwind%20%7C%20Playwright-Modern%20Todo%20App-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Repository:</b> <a href="https://github.com/andredrumond1995/react-nextjs-zustand">react-nextjs-zustand</a><br/>
-  A beautiful and modern <b>Todo List</b> project built with <b>React</b>, <b>Next.js</b>, <b>Zustand</b> for state management, <b>Tailwind CSS</b> for a stunning UI, and <b>Playwright</b> (v1.54) for comprehensive testing.<br/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">
-    <img src="https://img.shields.io/badge/Vue.js%20%7C%20Nuxt%203%20%7C%20Pinia%20%7C%20Tailwind%20%7C%20Cypress-Modern%20Todo%20App-green?style=for-the-badge&logo=vue.js&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Repository:</b> <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">vue-nuxt3-pinia</a><br/>
-  A modern and beautiful <b>Todo App</b> built with <b>Vue.js</b>, <b>Nuxt 3</b>, <b>Pinia</b> for state management, and <b>Tailwind CSS</b> for a stunning UI. Includes <b>Cypress</b> for robust end-to-end testing.<br/>
-  <i>Discover Vue.js best practices, responsive design, elegant state management, and reliable automated testing!</i>
-</p>
-
----
-
-<h2 align="center">🛠️ Technologies</h2>
-
-<p align="center">
-  <img src="https://hazelcast.com/wp-content/uploads/2021/12/node-logo.png" alt="Node.js" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" />
-  <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="60" />
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="MongoDB" width="30" />
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png" alt="Redis" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/2560px-RabbitMQ_logo.svg.png" alt="RabbitMQ" width="50" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" />
-  <img src="https://www.svgrepo.com/download/331370/docker.svg" alt="Docker" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="30" />
-  <img src="https://www.svgrepo.com/show/354256/rancher-icon.svg" alt="Rancher" width="30" />
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="30" />
-  <img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" alt="AWS" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="30" />
-  <img src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_tw.png" alt="Shell Scripting" width="30" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <a href="https://github.com/andredrumond1995/nestjs-mongoose-clean-arch">
+        <img src="https://img.shields.io/badge/NestJS%20%7C%20Mongoose%20%7C%20MongoDB%20%7C%20OData-API-red?style=for-the-badge&logo=nestjs&logoColor=white" /><br/>
+        <b>nestjs-mongoose-clean-arch</b>
+      </a>
+      <br/>
+      <sub>Clean Architecture API with OData v4, MongoDB, NestJS.</sub>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://github.com/andredrumond1995/react-nextjs-zustand">
+        <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Zustand%20%7C%20Tailwind%20%7C%20Playwright-Todo-blueviolet?style=for-the-badge&logo=react&logoColor=white" /><br/>
+        <b>react-nextjs-zustand</b>
+      </a>
+      <br/>
+      <sub>Modern Todo app with Playwright tests.</sub>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://github.com/andredrumond1995/vue-nuxt3-pinia">
+        <img src="https://img.shields.io/badge/Vue.js%20%7C%20Nuxt%203%20%7C%20Pinia%20%7C%20Tailwind%20%7C%20Cypress-Todo-green?style=for-the-badge&logo=vue.js&logoColor=white" /><br/>
+        <b>vue-nuxt3-pinia</b>
+      </a>
+      <br/>
+      <sub>Vue 3 + Nuxt 3 Todo app with Cypress E2E.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <a href="https://github.com/andredrumond1995/nodejs-postgresql-terraform-aws">
+        <img src="https://img.shields.io/badge/Node.js%20%7C%20PostgreSQL%20%7C%20Terraform%20%7C%20AWS-IaC-blue?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+        <b>nodejs-postgresql-terraform-aws</b>
+      </a>
+      <br/>
+      <sub>API scaffold with full AWS IaC using Terraform.</sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">📦 Personal NPM Libraries</h2>
-
 <ul>
   <li><a href="https://www.npmjs.com/package/text-to-number-util">text-to-number-util</a></li>
   <li><a href="https://www.npmjs.com/package/object-mapper-util">object-mapper-util</a></li>
@@ -94,7 +73,6 @@
 ---
 
 <h2 align="center">💬 Contact Me</h2>
-
 <p align="center">
   <b>Email:</b> andredrumond1995@gmail.com<br/>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/andre-drumond/">andre-drumond</a><br/>
